@@ -1,5 +1,6 @@
 # simple-crud-golang
-
+# APPLICATION URL 
+# https://simplecrud-szfj.onrender.com/api
 #  SETTING UP THE APPLICATION ON YOUR SYTETM 
 
 # To run the application, make sure you have the following prerequisites:
