@@ -1,6 +1,6 @@
 module mycrudapp
 
-go 1.21.1
+go 20.5
 
 require (
 	github.com/bytedance/sonic v1.10.1 // indirect
